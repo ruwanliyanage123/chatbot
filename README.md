@@ -1,1 +1,1 @@
-# chatbot
+trained chatbot solution for the technical discussions
